@@ -45,7 +45,7 @@ export default class Home extends Component {
         <View>
           <HeaderApp />
           <RandomPlanet />
-          <Text style={{textAlign: 'center', fontSize: 24, fontStyle: 'italic'}}>Welcome to Sw App</Text>
+          <Text style={{textAlign: 'center', fontSize: 24, fontStyle: 'italic'}}>Welcome to StarDB App</Text>
         </View>
         </SwapiServiceProvider>
       </ErrorBoundry>
